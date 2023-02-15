@@ -4,6 +4,16 @@
   position: relative;
   width: 100px;
 }
+
+.page {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .face {
   font-family: 'courier new', serif;
   font-size: 2.5em;
